@@ -1,0 +1,6 @@
+pandas==1.2.4
+numpy==1.19.5
+plotly==5.10.0
+scikit-learn==1.0.1
+seaborn==0.11.1
+pandas-profiling
